@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Calculadora","h":"class dio.sintaxe.Calculadora","d":"Section","u":"dio/sintaxe/Calculadora.html#calculadora-heading"}];updateSearchResults();

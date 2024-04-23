@@ -1,0 +1,52 @@
+@options
+@packages
+-classpath
+'/home/bond/.m2/repository/org/hibernate/validator/hibernate-validator/8.0.1.Final/hibernate-validator-8.0.1.Final.jar:/home/bond/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar:/home/bond/.m2/repository/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar:/home/bond/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'quick-start-maven 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'quick-start-maven 1.0-SNAPSHOT API'
+one.digitalinnovation
+/home/bond/.m2/repository/org/hibernate/validator/hibernate-validator/8.0.1.Final/hibernate-validator-8.0.1.Final.jar = 1687278991000
+/home/bond/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar = 1653588099000
+/home/bond/.m2/repository/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar = 1641938053000
+/home/bond/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar = 1571525227000
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/src/main/java = 1713838579027
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/allclasses.html = 1713850304891
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/allpackages-index.html = 1713850304883
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/search.js = 1713850304899
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/index-all.html = 1713850304875
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/stylesheet.css = 1713850304895
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/package-search-index.zip = 1713850304871
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/jquery-ui.overrides.css = 1713850304903
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/type-search-index.zip = 1713850304875
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/package-search-index.js = 1713850304871
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/constant-values.html = 1713850304855
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/deprecated-list.html = 1713850304887
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/help-doc.html = 1713850304895
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/element-list = 1713850304839
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/overview-tree.html = 1713850304867
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/allclasses-index.html = 1713850304879
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/script.js = 1713850304895
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/member-search-index.js = 1713850304875
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/index.html = 1713850304891
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/member-search-index.zip = 1713850304875
+/home/bond/Documents/cursos/curso-java-dio/quick-start-maven/target/site/apidocs/type-search-index.js = 1713850304875

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dio.sintaxe","l":"AnatomiaDasClasses"},{"p":"dio.sintaxe","l":"Calculadora"},{"p":"dio.sintaxe","l":"SmartTv"},{"p":"dio.sintaxe","l":"User"}];updateSearchResults();
